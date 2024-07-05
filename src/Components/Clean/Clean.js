@@ -229,6 +229,10 @@ export default function Clean(props) {
       >
         Download
       </button>
+      <p style={{ marginTop: "16px", maxWidth: 500 }}>
+        Please make sure background graphics is enabled in print settings for
+        graphics to appear in print.
+      </p>
     </>
   );
 }

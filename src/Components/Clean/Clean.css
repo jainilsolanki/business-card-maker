@@ -9,8 +9,6 @@
   box-shadow: 5px 5px 5px #512b46;
 }
 
-
-
 .left-section {
   display: flex;
   flex-direction: column;
@@ -45,8 +43,8 @@ h7 {
   flex-direction: column;
   gap: 20px;
   position: relative;
-  border:1px dashed #000;
-  padding:20px;
+  border: 1px dashed #000;
+  padding: 20px;
 }
 
 .back {
@@ -71,14 +69,11 @@ h7 {
   }
   #print * {
     visibility: visible;
-    
-
   }
   #print {
     position: absolute;
     left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, 0%);
     border: none;
   }
   #print .wrapper {
