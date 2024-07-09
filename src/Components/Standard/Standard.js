@@ -90,7 +90,7 @@ export default function Standard(props) {
     props.setClogo("fa fa-coffee");
     props.setCwb("https://www.jainilsolanki.com");
     props.setCfn("Jainil Solanki");
-    props.setCdsn("Frontend Trainee");
+    props.setCdsn("Frontend Engineer");
     props.setCn(8320081188);
     props.setCmail("jainilsolanki0704@gmail.com");
     props.setTheme("Clean");
